@@ -5,3 +5,10 @@ matplotlib
 tensorflow
 jupyter
 scikit-learn
+json_numpy
+google-auth
+google-cloud-storage
+google-cloud-bigquery
+db_dtypes
+google-cloud-pubsub
+google-cloud-storage
