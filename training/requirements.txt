@@ -1,0 +1,10 @@
+pandas
+numpy
+datetime
+tensorflow
+keras
+json_numpy
+google-cloud-storage
+google-cloud-bigquery
+db_dtypes
+google-auth
